@@ -1,6 +1,7 @@
 URL: [Basic SSRF against another back-end system](https://portswigger.net/web-security/learning-paths/ssrf-attacks/ssrf-attacks-common-ssrf-attacks/ssrf/lab-basic-ssrf-against-backend-system#)
 
 <img width="1256" height="346" alt="Screenshot 2026-04-15 122900" src="https://github.com/user-attachments/assets/79886c7d-1472-4dfc-afc5-199709aec816" />
+
 I do the same thing like the [previous lab](https://github.com/tkhnnh/WebSecurityAcademyDocs/blob/main/SSRF/Basic%20SSRF%20against%20the%20local%20server.md)
 
 But the goal is to find the last octet of the targeted address first, to achive that I use Intruder function of burpsuite
