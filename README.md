@@ -21,7 +21,8 @@ Click any topic to see my write-ups.
 | 🗂️ [Path Traversal](Path%20Traversal) | File path traversal attacks |
 | 💉 [SQL injection](SQL%20injection) | Classic & blind SQL injection |
 | 🌐 [SSRF](SSRF) | Server-side request forgery, blind/OOB detection |
-| ᯓ🏃🏻‍♀️‍➡️ [Race Condition](Race Condition) | Race Conditions attacks |
+| 🏃🏻‍♀️‍➡️ [Race Condition](Race%20Condition) | Race Conditions attacks with limit overrun, time-sensitive, multi-endpoint race |
+| 📝 [File upload vulnerabilities](File%20upload%20vulnerabilities) | File Upload Bypass, traversal, RCE |
 | 📝 [Server-side template injection](Server-side%20template%20injection) | SSTI across template engines (e.g. FreeMarker) |
 | 🧊 [Web cache deception](Web%20cache%20deception) | Cache-based information exposure |
 
