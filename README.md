@@ -25,6 +25,7 @@ Click any topic to see my write-ups.
 | 📝 [File upload vulnerabilities](File%20upload%20vulnerabilities) | File Upload Bypass, traversal, RCE |
 | 📝 [Server-side template injection](Server-side%20template%20injection) | SSTI across template engines (e.g. FreeMarker) |
 | 🧊 [Web cache deception](Web%20cache%20deception) | Cache-based information exposure |
+| 💉 [NoSQL injection](NoSQL%20injection) | NoSQL syntax injection, operator injection, timing based injection |
 
 
 ---
