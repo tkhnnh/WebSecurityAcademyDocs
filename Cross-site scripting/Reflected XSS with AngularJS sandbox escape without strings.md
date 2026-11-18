@@ -1,4 +1,4 @@
-<img width="853" height="261" alt="Screenshot_20261028_133700" src="https://github.com/user-attachments/assets/06f19a4e-5d5c-4072-8567-845ab6e4bb0f" />Link: [Reflected XSS with AngularJS sandbox escape without strings](https://portswigger.net/web-security/cross-site-scripting/contexts/client-side-template-injection/lab-angular-sandbox-escape-without-strings)
+Link: [Reflected XSS with AngularJS sandbox escape without strings](https://portswigger.net/web-security/cross-site-scripting/contexts/client-side-template-injection/lab-angular-sandbox-escape-without-strings)
 Difficulty: Expert
 
 # Recon
